@@ -1,0 +1,15 @@
+{
+  "name": "esperanto_stemmer",
+  "version": "1.0.0",
+  "description": "Ported from https://github.com/abadojack/stemmer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "esperanto",
+    "js"
+  ],
+  "author": "Darkenvy",
+  "license": "ISC"
+}
